@@ -1,3 +1,3 @@
 # draw.io
 
-![Diagram](https://github.com/eiichi-worker/draw.io/blob/master/Untitled%20Diagram.xml)
+![Diagram](https://raw.githubusercontent.com/eiichi-worker/draw.io/master/Untitled%20Diagram.xml)
